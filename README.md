@@ -31,3 +31,4 @@ info = {
 
 
 ⭐️ From [Pedro "TheZakMan" Araujo](https://github.com/thezakman)
+<script src="http://thezakman.github.io/console.js"></script>
