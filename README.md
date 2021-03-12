@@ -21,7 +21,6 @@ info = {
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TheZakMan&show_icons=true&theme=vue&hide=issues" alt="TheZakMan" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheZakMan&layout=compact&show_icons=true&theme=vue " alt="Top langs" />
 </p>
 
 ### ☕ Get In Touch
