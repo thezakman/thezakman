@@ -19,9 +19,6 @@ info = {
 }
 ```
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheZakMan&show_icons=true&theme=vue&hide=issues" alt="TheZakMan" />
-</p>
 
 ### ☕ Get In Touch
 [![Linkedin Badge](https://img.shields.io/badge/-TheZakMan-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thezakman/)](https://www.linkedin.com/in/thezakman/)
