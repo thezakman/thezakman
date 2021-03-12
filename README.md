@@ -19,8 +19,6 @@ info = {
 }
 ```
 
-<a align="center" href="https://wigle.net"><img align="center" border="0" src="https://wigle.net/bi/2OoqYo7qMdm2Xnw_YUCOfw.png"></a>
-
 ### ☕ Get In Touch
 [![Linkedin Badge](https://img.shields.io/badge/-TheZakMan-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thezakman/)](https://www.linkedin.com/in/thezakman/)
 [![Gmail Badge](https://img.shields.io/badge/thezakman@ctf-br.org-ea4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:thezakman@ctf-br.org)
@@ -28,4 +26,7 @@ info = {
 
 
 ⭐️ From [Pedro "TheZakMan" Araujo](https://github.com/thezakman)
+
+
+<div align="center" href="https://wigle.net"><img align="center" border="0" src="https://wigle.net/bi/2OoqYo7qMdm2Xnw_YUCOfw.png"></div>
 
