@@ -23,7 +23,7 @@ info = {
 ### ☕ Get In Touch
 [![Linkedin Badge](https://img.shields.io/badge/-TheZakMan-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thezakman/)](https://www.linkedin.com/in/thezakman/)
 [![Gmail Badge](https://img.shields.io/badge/thezakman@ctf-br.org-ea4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:thezakman@ctf-br.org)
-[![HackTheBox Badge](https://img.shields.io/badge/-TheZakMan-9fef00?style=flat-square&logo=Hack-The-Box&logoColor=whitee&link=https://www.hackthebox.eu/home/users/profile/100461)](https://www.hackthebox.eu/home/users/profile/380585)
+[![HackTheBox Badge](https://img.shields.io/badge/-TheZakMan-9fef00?style=flat-square&logo=Hack-The-Box&logoColor=white&link=https://www.hackthebox.eu/home/users/profile/100461)](https://www.hackthebox.eu/home/users/profile/380585)
 
 
 ⭐️ From [Pedro "TheZakMan" Araujo](https://github.com/thezakman)
