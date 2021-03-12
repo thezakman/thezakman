@@ -1,5 +1,5 @@
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+<p align="center">
+    <img src="https://64.media.tumblr.com/fc25fe4f65bc3d59cd7d51c98978bbc1/018960ee17970ed1-29/s128x128u_c1/a52339ef99aa53482b6719e226b03f47a87cee31.pnj" width="23%" height="23%" />
 </p>
 
 ## 👋 Hi, I'm TheZakMan :computer:
