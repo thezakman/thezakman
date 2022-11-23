@@ -5,11 +5,11 @@
     
 </p>
 
-## 👋 Hi, I'm Pedro "TheZakMan" Araujo :computer:
+## 👋 Hi, how are you? :computer:
  ------------
 <img align='right' src='https://github.com/ctf-br/branding/blob/master/Logos/Padr%C3%A3o/GIF/CTF-BR(Flag).gif?raw=true' width='200"'>
 
-#### I am Graphic Artist, CTF lover, passionate about technology, security and music; an eternal student.
+#### I'm Pedro "TheZakMan" Araujo, a Graphic Artist, CTF lover, passionate about technology, security and music; an eternal student.
 
  # 👨‍💻 Languages and Tools: <div align="center"> [![Adobe](https://img.shields.io/badge/adobe%20suite-%23FF0000.svg?&style==flat-square&logo=adobe&logoColor=white)](https://adobe.com/) [![Python](https://img.shields.io/badge/-Python-%23007bcd?style=flat-square&logo=python&logoColor=ffce5a)](https://python.org/) [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/) [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)](https://nodejs.org/) [![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5) [![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![Linux](https://img.shields.io/badge/-linux-%23870b53?style=flat-square&logo=linux)](https://www.kernel.org/doc/html/latest/) [![Git](https://img.shields.io/badge/-git-black?style=flat-square&logo=Git)](https://git-scm.com/) 
 
