@@ -1,5 +1,8 @@
 <p align="center">
-    <img src="https://64.media.tumblr.com/fc25fe4f65bc3d59cd7d51c98978bbc1/018960ee17970ed1-29/s128x128u_c1/a52339ef99aa53482b6719e226b03f47a87cee31.png" width="23%" height="23%" />
+    <img src="https://thezakman.github.io/tzm.png" width="23%" height="23%" />
+    <!-- https://64.media.tumblr.com/fc25fe4f65bc3d59cd7d51c98978bbc1/018960ee17970ed1-29/s128x128u_c1/a52339ef99aa53482b6719e226b03f47a87cee31.png -->
+    
+    
 </p>
 
 ## 👋 Hi, I'm TheZakMan :computer:
