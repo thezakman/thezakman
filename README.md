@@ -6,6 +6,7 @@
 </p>
 
 ## 👋 Hello, my name is Pedro Araujo :computer:
+but you you can call me "TheZakMan"
  ------------
 <img align='right' src='https://github.com/ctf-br/branding/blob/master/Logos/Padr%C3%A3o/GIF/CTF-BR(Flag).gif?raw=true' width='200"'>
 
