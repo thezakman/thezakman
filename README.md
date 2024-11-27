@@ -20,7 +20,7 @@
 
 ```python
 info = { 
- 👨‍💻Portifolio: "thezakman.tumblr.com",
+ 👨‍💻Portifolio: "http://tzm.ink",
  📒Email: "thezakman@ctf-br.org",
 }
 ```
