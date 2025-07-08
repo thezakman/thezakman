@@ -33,7 +33,7 @@ info = {
 [![HackTheBox Badge](https://img.shields.io/badge/-TheZakMan-9fef00?style=flat-square&logo=Hack-The-Box&logoColor=white&link=https://www.hackthebox.eu/home/users/profile/100461)](https://www.hackthebox.eu/home/users/profile/380585)
 
 
-⭐️ From [Pedro "TheZakMan" Araujo](https://thezakman.tumblr.com)
+⭐️ From [Pedro "TheZakMan" Araujo](https://tzm.ink)
 
 
 
